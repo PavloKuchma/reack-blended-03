@@ -37,6 +37,7 @@ export const Flag = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  overflow: hidden;
 `;
 
 export const Image = styled.img`
